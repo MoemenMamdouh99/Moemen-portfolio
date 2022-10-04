@@ -2,7 +2,16 @@
 
 # [Project1 EDA for medical appointment using jupyter notebook](https://github.com/MoemenMamdouh99/Medical-Show-up-appointment)
 
-Studying different factors that affect showing up at medical appointment
+### Studying different factors that affect showing up at medical appointment such as:
+- Age
+- Gender
+- Handicaped or not
+- Alcholism or not
+- Having diabetes or not
+
+![image](https://user-images.githubusercontent.com/109303588/193862790-3260aa2e-3eb1-450d-a451-0fa6577010b7.png)
+
+
 
 # [Project2 Bike share system analysis](https://github.com/MoemenMamdouh99/Bike-share-system)
 
@@ -17,4 +26,19 @@ Thanks to the rise in information technologies, it is easy for a user of the sys
 using data provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns, and comparing the system usage between three large cities: Chicago, New York City, and Washington, DC.
 
 
-![divvy](https://user-images.githubusercontent.com/109303588/192097057-11e020a1-d626-4720-9290-922f0439ecc4.jpg)
+![image](https://user-images.githubusercontent.com/109303588/193862446-bcffe2ca-da35-45fa-b196-9117e22fa209.png)
+
+
+
+# [Project3 EDA for global terrorism dataset](https://github.com/MoemenMamdouh99/Global-terrorism-EDA)
+
+Trying to identify the hot zones of terrorism around the world this is done by identifying:
+
+- The most attacked country
+- The most weapons used
+- determine the most frequent attacking type and many more
+
+![newplot](https://user-images.githubusercontent.com/109303588/193865209-3fb0d303-be64-4627-871f-1c080d75c55c.png)
+
+
+
