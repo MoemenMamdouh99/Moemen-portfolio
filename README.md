@@ -38,5 +38,7 @@ using data provided by Motivate, a bike share system provider for many major cit
 
 ![newplot](https://user-images.githubusercontent.com/109303588/193865209-3fb0d303-be64-4627-871f-1c080d75c55c.png)
 
-
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme
 
